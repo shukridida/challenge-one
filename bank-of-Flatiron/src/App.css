@@ -1,0 +1,19 @@
+#root {
+  margin:1px;
+  padding: 2rem;
+  text-align: center;
+  position: fixed;
+}
+input{
+  background-color: pink;
+  text-decoration-color: black;
+}
+#date{
+  text-decoration-color: black;
+  background-color:green;
+}
+
+#header{
+  background-color:purple;
+  height:100px;
+}
